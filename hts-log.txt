@@ -1,0 +1,43 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 24 Oct 2025 15:14:03 at https://thiepcuoi.gowedding.com.vn/happy/no-slug/1018 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://thiepcuoi.gowedding.com.vn/happy/no-slug/1018 -O1 "C:\My Web Sites\T2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:14:25	Error: 	"Not Found" (404) at link https://thiepcuoi.gowedding.com.vn/themes/theme1/images/ui-icons_444444_256x240.png (from https://thiepcuoi.gowedding.com.vn/themes/theme1/css/jquery-ui.css)
+15:14:25	Error: 	"Not Found" (404) at link https://thiepcuoi.gowedding.com.vn/themes/theme1/images/ui-icons_555555_256x240.png (from https://thiepcuoi.gowedding.com.vn/themes/theme1/css/jquery-ui.css)
+15:14:25	Error: 	"Not Found" (404) at link https://thiepcuoi.gowedding.com.vn/themes/theme1/images/ui-icons_ffffff_256x240.png (from https://thiepcuoi.gowedding.com.vn/themes/theme1/css/jquery-ui.css)
+15:14:25	Error: 	"Not Found" (404) at link https://thiepcuoi.gowedding.com.vn/themes/theme1/images/ui-icons_777620_256x240.png (from https://thiepcuoi.gowedding.com.vn/themes/theme1/css/jquery-ui.css)
+15:14:25	Error: 	"Not Found" (404) at link https://thiepcuoi.gowedding.com.vn/themes/theme1/images/ui-icons_cc0000_256x240.png (from https://thiepcuoi.gowedding.com.vn/themes/theme1/css/jquery-ui.css)
+15:14:25	Error: 	"Not Found" (404) at link https://thiepcuoi.gowedding.com.vn/themes/theme1/images/ui-icons_777777_256x240.png (from https://thiepcuoi.gowedding.com.vn/themes/theme1/css/jquery-ui.css)
+15:14:25	Error: 	"Not Found" (404) at link https://thiepcuoi.gowedding.com.vn/themes/theme1/images/fancybox/fancybox_sprite.png (from https://thiepcuoi.gowedding.com.vn/themes/theme1/css/jquery.fancybox.css)
+15:14:25	Error: 	"Not Found" (404) at link https://thiepcuoi.gowedding.com.vn/themes/theme1/images/fancybox/fancybox_loading.gif (from https://thiepcuoi.gowedding.com.vn/themes/theme1/css/jquery.fancybox.css)
+15:14:25	Error: 	"Not Found" (404) at link https://thiepcuoi.gowedding.com.vn/themes/theme1/images/fancybox/blank.gif (from https://thiepcuoi.gowedding.com.vn/themes/theme1/css/jquery.fancybox.css)
+15:14:25	Error: 	"Not Found" (404) at link https://thiepcuoi.gowedding.com.vn/themes/theme1/images/fancybox/fancybox_overlay.png (from https://thiepcuoi.gowedding.com.vn/themes/theme1/css/jquery.fancybox.css)
+15:14:25	Error: 	"Not Found" (404) at link https://thiepcuoi.gowedding.com.vn/themes/theme1/images/fancybox/fancybox_sprite@2x.png (from https://thiepcuoi.gowedding.com.vn/themes/theme1/css/jquery.fancybox.css)
+15:14:25	Error: 	"Not Found" (404) at link https://thiepcuoi.gowedding.com.vn/themes/theme1/images/fancybox/fancybox_loading@2x.gif (from https://thiepcuoi.gowedding.com.vn/themes/theme1/css/jquery.fancybox.css)
+15:14:25	Error: 	"Not Found" (404) at link https://thiepcuoi.gowedding.com.vn/themes/theme1/css/owl.video.play.png (from https://thiepcuoi.gowedding.com.vn/themes/theme1/css/owl.carousel.css)
+15:14:25	Error: 	"Not Found" (404) at link https://thiepcuoi.gowedding.com.vn/themes/theme1/images/ajax-loader.gif (from https://thiepcuoi.gowedding.com.vn/themes/theme1/css/slick-theme.css)
+15:14:25	Error: 	"Not Found" (404) at link https://thiepcuoi.gowedding.com.vn/themes/theme1/images/select-icon.png (from https://thiepcuoi.gowedding.com.vn/themes/theme1/css/style.css)
+15:14:25	Error: 	"Not Found" (404) at link https://thiepcuoi.gowedding.com.vn/themes/theme1/images/page-title.jpg (from https://thiepcuoi.gowedding.com.vn/themes/theme1/css/style.css)
+15:14:25	Error: 	"Not Found" (404) at link https://thiepcuoi.gowedding.com.vn/themes/theme1/images/bg-2.jpg (from https://thiepcuoi.gowedding.com.vn/themes/theme1/css/style.css)
+15:14:25	Error: 	"Not Found" (404) at link https://thiepcuoi.gowedding.com.vn/themes/theme1/images/Single-title-shape2.png (from https://thiepcuoi.gowedding.com.vn/themes/theme1/css/style.css)
+15:14:25	Error: 	"Not Found" (404) at link https://thiepcuoi.gowedding.com.vn/themes/theme1/images/slider/bg.jpg (from https://thiepcuoi.gowedding.com.vn/themes/theme1/css/style.css)
+15:14:25	Error: 	"Not Found" (404) at link https://thiepcuoi.gowedding.com.vn/themes/theme1/images/slider/slide-14.jpg (from https://thiepcuoi.gowedding.com.vn/themes/theme1/css/style.css)
+15:14:25	Error: 	"Not Found" (404) at link https://thiepcuoi.gowedding.com.vn/themes/theme1/images/slider/slide-15.jpg (from https://thiepcuoi.gowedding.com.vn/themes/theme1/css/style.css)
+15:14:25	Error: 	"Not Found" (404) at link https://thiepcuoi.gowedding.com.vn/themes/theme1/images/slider/frame2.png (from https://thiepcuoi.gowedding.com.vn/themes/theme1/css/style.css)
+15:14:25	Error: 	"Not Found" (404) at link https://thiepcuoi.gowedding.com.vn/themes/theme1/images/banner.jpg (from https://thiepcuoi.gowedding.com.vn/themes/theme1/css/style.css)
+15:14:25	Error: 	"Not Found" (404) at link https://thiepcuoi.gowedding.com.vn/themes/theme1/images/date.png (from https://thiepcuoi.gowedding.com.vn/themes/theme1/css/style.css)
+15:14:25	Error: 	"Not Found" (404) at link https://thiepcuoi.gowedding.com.vn/themes/theme1/images/couple/mask.jpg (from https://thiepcuoi.gowedding.com.vn/themes/theme1/css/style.css)
+15:14:25	Error: 	"Not Found" (404) at link https://thiepcuoi.gowedding.com.vn/themes/theme1/images/date2.png (from https://thiepcuoi.gowedding.com.vn/themes/theme1/css/style.css)
+15:14:25	Error: 	"Not Found" (404) at link https://thiepcuoi.gowedding.com.vn/themes/theme1/images/contact/bg.jpg (from https://thiepcuoi.gowedding.com.vn/themes/theme1/css/style.css)
+15:14:25	Error: 	"Not Found" (404) at link https://thiepcuoi.gowedding.com.vn/themes/theme1/images/offer.jpg (from https://thiepcuoi.gowedding.com.vn/themes/theme1/css/style.css)
+15:14:25	Warning: 	Moved Permanently for https://thiepcuoi.gowedding.com.vn/happy/no-slug/Version/
+15:14:25	Warning: 	File has moved from https://thiepcuoi.gowedding.com.vn/happy/no-slug/Version/ to https://thiepcuoi.gowedding.com.vn/happy/no-slug/Version
+15:14:26	Warning: 	Moved Permanently for https://thiepcuoi.gowedding.com.vn/happy/no-slug/version/
+15:14:26	Warning: 	File has moved from https://thiepcuoi.gowedding.com.vn/happy/no-slug/version/ to https://thiepcuoi.gowedding.com.vn/happy/no-slug/version
+
+HTTrack Website Copier/3.49-2 mirror complete in 23 seconds : 85 links scanned, 54 files written (6309638 bytes overall) [5527753 bytes received at 240337 bytes/sec], 969219 bytes transferred using HTTP compression in 20 files, ratio 12%, 18.6 requests per connection
+(28 errors, 4 warnings, 0 messages)
