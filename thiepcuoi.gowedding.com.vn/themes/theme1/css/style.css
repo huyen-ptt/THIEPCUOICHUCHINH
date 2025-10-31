@@ -11250,6 +11250,7 @@ wpo-hero-slider-s4
 @media (max-width: 575px) {
   .wpo-contact-section-s4 .wpo-contact-section-wrapper .wpo-contact-section-inner {
     padding: 15px;
+    display: none;
   }
 }
 
